@@ -1,1 +1,5 @@
+# Ignore the 'extracted' folder and all its contents
+extracted/
 
+# Ignore the 'uploads' folder and all its contents
+uploads/
