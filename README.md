@@ -1,6 +1,5 @@
 # 🗜️ Archive Uploader & Extractor
-Totally created by Claude-4-Opus
-**A Professional Modular Archive Processing System**
+Totally created by Claude-4-Opus / **A Professional Modular Archive Processing System**
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple.svg)](https://getbootstrap.com)
